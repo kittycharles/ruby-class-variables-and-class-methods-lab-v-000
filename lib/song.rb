@@ -46,7 +46,7 @@ class Song
     @@artist_count
   end
 
-
-
-
 end
+
+Song.artist_count
+
