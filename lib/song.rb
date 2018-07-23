@@ -49,4 +49,3 @@ class Song
 end
 
 Song.artist_count
-
